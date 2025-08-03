@@ -22,11 +22,11 @@ const Header = () => {
                     <a href="#about" className="flex items-center hover:text-emerald-400 transition">
                         <FaUser className="mr-1" /> About
                     </a>
-                    <a href="#projects" className="flex items-center hover:text-emerald-400 transition">
-                        <FaClipboardList className="mr-1" /> Projects
-                    </a>
                     <a href="#skills" className="flex items-center hover:text-emerald-400 transition">
                         <FaCode className="mr-1" /> Skills
+                    </a>
+                    <a href="#projects" className="flex items-center hover:text-emerald-400 transition">
+                        <FaClipboardList className="mr-1" /> Projects
                     </a>
                     <a href="#contact" className="flex items-center hover:text-emerald-400 transition">
                         <FaTools className="mr-1" /> Contact
