@@ -6,22 +6,22 @@ const projects = [
         id: 1,
         title: "Weather App",
         description: "A weather app built with React, using the OpenWeather API for real-time weather data, and styled with TailwindCSS for a sleek, responsive UI.",
-        image: "/React-Portfolio/images/weather.png",
+        image: "/images/weather.png",
         github: "https://github.com/kraken300/Weather-App-React",
     },
     {
         id: 2,
         title: "React Portfolio",
         description: "A personal portfolio website created with React and styled using TailwindCSS, showcasing projects, skills, and contact information.",
-        image: "/React-Portfolio/images/portfolio.png",
+        image: "/images/portfolio.png",
         github: "https://github.com/kraken300/React-Portfolio",
     },
     {
         id: 3,
         title: "Todo App",
         description: "A full-stack To-Do app built with React for the front end, Spring Boot for the backend, MySQL for data storage, and TailwindCSS for styling.",
-        image: "/React-Portfolio/images/todo.png",
-        github: "https://github.com/kraken300/certification/tree/main/projects/todo",
+        image: "/images/todo.png",
+        github: "https://github.com/kraken300/todo-app-spring-boot",
     },
 ];
 

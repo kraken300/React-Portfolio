@@ -22,7 +22,7 @@ const Home = () => {
 
                 <div>
                     <a
-                        href="/React-Portfolio/files/Resume.pdf"
+                        href="/files/Resume.pdf"
                         download
                         className="inline-block bg-emerald-500 text-white font-semibold py-2 px-6 rounded-lg hover:bg-emerald-600 hover:scale-105 transition-transform duration-300"
                     >

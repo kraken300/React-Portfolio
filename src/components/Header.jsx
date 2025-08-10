@@ -32,7 +32,7 @@ const Header = () => {
                         <FaTools className="mr-1" /> Contact
                     </a>
                     <a
-                        href="/React-Portfolio/files/Resume.pdf"
+                        href="/files/Resume.pdf"
                         download
                         className="flex items-center hover:text-emerald-400 transition"
                     >
@@ -76,7 +76,7 @@ const Header = () => {
                     <a href="#contact" className="flex items-center py-2 hover:text-emerald-400">
                         <FaTools className="mr-1" /> Contact
                     </a>
-                    <a href="/React-Portfolio/files/Resume.pdf" download className="flex items-center py-2 hover:text-emerald-400">
+                    <a href="/files/Resume.pdf" download className="flex items-center py-2 hover:text-emerald-400">
                         <FaDownload className="mr-1" /> Download Resume
                     </a>
                 </nav>
