@@ -23,6 +23,13 @@ const projects = [
         image: "/images/todo.png",
         github: "https://github.com/kraken300/todo-app-spring-boot",
     },
+    {
+        id: 4,
+        title: "Expense Tracker App",
+        description: "A full-stack Expense Tracker app built with JSP for the front end, Spring MVC for the backend and MySQL for data storage.",
+        image: "/images/expense.png",
+        github: "https://github.com/kraken300/expense-tracker-spring-mvc",
+    },
 ];
 
 const Project = () => {
